@@ -1,10 +1,12 @@
 * {
     background-color: crimson;
+    
 }
 
-h1{
+h1 {
     font-style: oblique;
     text-shadow: darkgrey;
+    color: yellow !important;
 }
 
 h4{
