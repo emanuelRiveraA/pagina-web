@@ -3,5 +3,10 @@
 }
 
 h1{
-    color: cyan;
+    font-style: oblique;
+    text-shadow: darkgrey;
+}
+
+h4{
+   text-transform: lowercase;
 }
